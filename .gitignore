@@ -19,4 +19,5 @@ software/o_c_REV/.DS_Store
 shelved/
 Hemisphere\ Suite.cpp
 builds
-.pio/
+.pio
+.vscode/
