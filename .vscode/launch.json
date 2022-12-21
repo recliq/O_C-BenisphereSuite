@@ -1,0 +1,44 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+//
+// PIO Unified Debugger
+//
+// Documentation: https://docs.platformio.org/page/plus/debugging.html
+// Configuration: https://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "d:/ESP/O_C-BenisphereSuite-recliq-pio/.pio/build/oc_prod/firmware.elf",
+            "projectEnvName": "oc_prod",
+            "toolchainBinDir": "",
+            "internalConsoleOptions": "openOnSessionStart",
+            "preLaunchTask": {
+                "type": "PlatformIO",
+                "task": "Pre-Debug (oc_prod)"
+            }
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (skip Pre-Debug)",
+            "executable": "d:/ESP/O_C-BenisphereSuite-recliq-pio/.pio/build/oc_prod/firmware.elf",
+            "projectEnvName": "oc_prod",
+            "toolchainBinDir": "",
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (without uploading)",
+            "executable": "d:/ESP/O_C-BenisphereSuite-recliq-pio/.pio/build/oc_prod/firmware.elf",
+            "projectEnvName": "oc_prod",
+            "toolchainBinDir": "",
+            "internalConsoleOptions": "openOnSessionStart",
+            "loadMode": "manual"
+        }
+    ]
+}
