@@ -1,7 +1,11 @@
-Welcome to Benisphere Suite
+Benisphere Suite is Retired!
 ===
 
-## An active fork expanding upon Hemisphere Suite.
+I’m sorry to say that I have stopped working on this firmware. If you want the latest and greatest of what the o_C has to offer, I recommend checking out the [Phazerville fork](https://github.com/djphazer/O_C-BenisphereSuite). It includes all of the work I put into Benispheres and then some! 
+
+I have extreme gratitude for everyone’s support and enthusiasm over the years, it has meant a lot to me. Contributing to a meaningful open source project has been a goal of mine since I started my career as a developer. Thank you for giving me an opportunity to achieve that dream! I’m sure I will work on modular projects again in the future, feel free to follow me on instagram [@benirosemusic](https://www.instagram.com/benirosemusic/) or my [YouTube channel](https://www.youtube.com/c/benirosemusic) to stay updated on all of my projects and music, and don’t be afraid to reach out! It has been a true blessing to be a part of this community.
+
+## A (previously) active fork expanding upon Hemisphere Suite.
 
 To download and install the latest release, head to [releases](https://github.com/benirose/O_C-BenisphereSuite/releases).
 
